@@ -1,3 +1,3 @@
-Nama Lengkap : Zelda Elma Sibuea
-Umur : 20
-Pesan yang ingin disampaikan : Semangat untuk kamu yang disana sedang berjuang
+Nama Lengkap : Zelda Elma Sibuea <br>
+Umur : 20 <br>
+Pesan yang ingin disampaikan : Semangat untuk kamu yang disana sedang berjuang <br>
