@@ -1,3 +1,3 @@
-Nama Lengkap : Syaipuddin Muda Pane
-Umur : 27
-Pesan yang ingin disampaikan : Tetap berjuang walau semua menghadang
+Nama Lengkap : Syaipuddin Muda Pane </br>
+Umur : 27 </br>
+Pesan yang ingin disampaikan : Tetap berjuang walau semua menghadang </br>
