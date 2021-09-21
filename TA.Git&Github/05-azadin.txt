@@ -7,7 +7,7 @@
 6. (terlampir)
 7. $ git add azadin.md
 8. $ git commit -m "azadin.md"
-9. $ cd checkout master
+9. $ git checkout master
    $ git merge azadin_azhar
 10.$ git push
 11. (terlampir)
