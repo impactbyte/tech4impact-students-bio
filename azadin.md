@@ -1,3 +1,3 @@
-Nama: AZADIN AZHAR PURBA
-Umur: 20
-Pesan: Jangan putus asa dan hiduplah seperti Larry
+Nama Lengkap : Azadin Azhar Purba n
+Umur : 20 n
+Pesan yang ingin disampaikan : Tetap Santuy dan Hidup Seperti Larry n
