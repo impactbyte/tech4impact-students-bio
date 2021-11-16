@@ -1,0 +1,21 @@
+$ git config --global user.email azadinazhar603@gmail.com
+$ git config --global user.name azadin23
+
+$ mkdir git-basic
+$ touch first.txt
+$ git init TA_GIT
+$ mv first.txt TA_GIT
+$ cd TA_GIT
+$ git add first.txt
+$ git commit -m "Adding first.txt"
+
+$ git log
+
+$ touch second.txt
+$ git add second.txt
+$ git commit -m "Adding second.txt"
+
+$ git rm first.txt
+$ git commit -m "Removing first.txt"
+
+$ git log
